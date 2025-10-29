@@ -12,7 +12,7 @@ export function AboutSection() {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 items-center">
           <div>
             <SectionHeader title="Who We Are" align="left" />
-
+             
             <motion.p initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} transition={{ duration: 0.6 }} className="text-muted-foreground max-w-3xl mb-4">
               Work Shed Industrial Company (WSCO), in collaboration with PPE (Pioneer Projects Executor), has been a trusted name in the Saudi market for over 12 years, delivering excellence in custom wooden joinery and interior fit-out design. We blend traditional craftsmanship with modern innovation to create distinctive woodwork solutions that reflect quality, functionality, and style.
             </motion.p>
