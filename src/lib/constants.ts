@@ -106,7 +106,7 @@ export const ACCESSORIES = ["Hinges", "Drawer Slides", "Edge Bands", "Side Tapes
 export const CONTACT = {
   location: "Riyadh, KSA",
   phones: ["+966 5677817673", "+966 569198646"],
-  emails: ["manzoor@wscosa.com", "mahmoud.ali@wscosa.com"],
+  emails: ["manzoor@wscosa.com", "m.asif@wscosa.com"],
 };
 
 export const PROJECTS = [
