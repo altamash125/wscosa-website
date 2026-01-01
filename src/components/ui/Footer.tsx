@@ -93,7 +93,7 @@ export function Footer() {
             <li className="flex items-start gap-3">
               <span className="w-8 h-8 rounded-full bg-[#2a2625] flex items-center justify-center">📧</span>
               <div>
-                <div className="text-white text-sm">{CONTACT.emails[0]}</div>
+                <div className="text-white text-sm">info@wscosa.com</div>
               </div>
             </li>
 
